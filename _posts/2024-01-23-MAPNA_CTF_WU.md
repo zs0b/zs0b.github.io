@@ -1,10 +1,15 @@
-# MAPNA CTF WriteUP
+---
+layout: post
+title: MAPNA CTF 
+date: 2024-01-23 16:00 +0700
+categories: [writeup]
+tags: [forensics, cryto, web]     # TAG names should always be lowercase
+img_path: '/assets/MAPNA/img'
+image: 
+  path: MAPNA.png
+--- 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="/assets/MAPNA/img/MAPNA.png">
- <source media="(prefers-color-scheme: light)" srcset="/assets/MAPNA/img/MAPNA.png">
- <img alt="YOUR-ALT-TEXT" src="/assets/MAPNA/img/MAPNA.png">
-</picture>
+# MAPNA CTF WriteUP
 
 Hello comrades, I'm glad you came here to read my article about **MAPNA CTF**
 
