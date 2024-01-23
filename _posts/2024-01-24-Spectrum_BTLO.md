@@ -21,7 +21,7 @@ Ok, I know it is a file `disk image`
 
 Thread tags mentioning a tool `Photorec`
 
-```Shell
+```Console
 photorec image.dd
 ```
 
