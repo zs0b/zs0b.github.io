@@ -21,8 +21,8 @@ Ok, I know it is a file `disk image`
 
 Thread tags mentioning a tool `Photorec`
 
-```
-photorec image.dd 
+```Shell
+photorec image.dd
 ```
 
 Select `Disk image.dd` -> `Proceed`
