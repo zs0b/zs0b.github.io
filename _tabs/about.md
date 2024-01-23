@@ -5,9 +5,11 @@ order: 4
 ---
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Briefly
+
 Hello everyone, I'm 2$0b aka zs0b,and a newbie. I play CTF for passion @~@
 
-https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif 
+![Alt Text](https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif)
 
-{: .prompt-tip }
+
+
