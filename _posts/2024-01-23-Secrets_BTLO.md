@@ -23,4 +23,11 @@ Search GG and see [JWT decode](https://jwt.io/)
 
 As seen, it includes: `Header, Payload, Signature` 
 
+### 3) What is the hint you found from this token? (Format: String) (2 points)
+
+As seen "flag": "BTL{_4_Eyes}". The verdict will be `_4_Eyes`
+
+### 4) What is the Secret? (Format: String) (2 points)
+
+
 
