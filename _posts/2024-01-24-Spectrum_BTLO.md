@@ -86,6 +86,61 @@ Using that to decompress we have
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ce7e525b-200c-48f6-a1f2-4ab56fe69cf7)
 
+Right, now that we have the file, let's try steghide -.-
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3270e694-ee35-41e1-a8a7-7b50280b9501)
+
+Ummm,...
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/c7c4af8c-8396-4c0b-8f22-4098bfcc080f)
+
+After a while of trying again and again, I knew it was encoded from `base 58`
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/6661a385-2364-462f-aec2-db0371353ff9)
+
+but... it must have been reversed -_-
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/8cfb89c9-9738-4335-835e-8ef5d741e0f5)
+
+`00:10:51`
+
+### What are the supposed coordinates for the deal? (4 points)
+
+And then, now go back and continue with `white.wav`, ignoring all the others =]
+> Tags mentioning `Audio Software`, I like `Audacity` because I like it @.@
+
+As usual when testing with `Audacity` switch to `Spectrogram` and miracles will happen
+
+I bet this is a GPS map, trust me!!
+> I'm never wrong once, I'm wrong a lot XD
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ccd8cf77-5a89-4558-9f49-48aebb3a81eb)
+
+`51.505278 0.055278`
+
+Go to `GG Map` and enter like me and boom
+
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/2528225f-2457-4d22-84ea-c2dddd412a41)
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a3b66f98-c88a-4575-b8f2-b450b1e066dd)
+
+`London City Airport`
+
+goodbye, thank you for reading until now //~//
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
