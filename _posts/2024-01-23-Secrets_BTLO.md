@@ -33,8 +33,8 @@ To decode we will use brute force, there is hashcat and john here I will use has
 
 You must first go to `root` 
 
-```Shell
-$(hashcat token.txt -m 16500 -a 3 ?a?a?a?a)
+```Markdown
+hashcat token.txt -m 16500 -a 3 ?a?a?a?a
 ```
 
 - `-m 16500` in Hashcat is used to crack JSON Web Tokens (JWT)
@@ -57,11 +57,9 @@ Because I don't have admin rights hehe :>
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/b8523e03-4741-4bad-a07e-a6d13854f9fa)
 
-<pre>
-  <code class= "Text">
+```Markdown
 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmbGFnIjoiQlRMe180X0V5ZXN9IiwiaWF0Ijo5MDAwMDAwMCwibmFtZSI6IkdyZWF0RXhwIiwiYWRtaW4iOmZhbHNlfQ.nMXNFvttCvtDcpswOQA8u_LpURwv6ZrCJ-ftIXegtX4 
-  </code>
-</pre>
+```
 
 goodbye, thank you for reading until now //~//
 
