@@ -40,7 +40,7 @@ Since this website is no longer online, please refer to this article [HunTress](
 
 It's pretty easy, you can search GG and you'll see it, if you haven't seen it yet, here it is ~
 
-`msdt.exe` , `WINWORD.exe`
+`msdt.exe, WINWORD.exe`
 
 ### Question 8) Submit the MITRE technique ID used by the sample for Execution [Hint: Online sandbox platforms can help!] (Format: TXXXX) (1 points)
 
