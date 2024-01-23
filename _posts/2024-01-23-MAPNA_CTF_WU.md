@@ -2,8 +2,8 @@
 layout: post
 title: MAPNA CTF 
 date: 2024-01-23 16:00 +0700
-categories: [writeup, MAPNA 2024]
-tags: [forensics, cryto, web]     # TAG names should always be lowercase
+categories: [Writeup, MAPNA 2024]
+tags: [forensics, cryto, web, MAPNA CTF]     # TAG names should always be lowercase
 img_path: '/assets/MAPNA/img'
 image: 
   path: MAPNA.png
