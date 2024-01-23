@@ -33,7 +33,10 @@ To decode we will use brute force, there is hashcat and john here I will use has
 
 You must first go to `root` 
 
-`hashcat token.txt -m 16500 -a 3 ?a?a?a?a`
+```
+hashcat token.txt -m 16500 -a 3 ?a?a?a?a
+
+```
 
 - `-m 16500` in Hashcat is used to crack JSON Web Tokens (JWT)
 
