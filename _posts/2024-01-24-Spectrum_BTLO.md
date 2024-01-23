@@ -21,7 +21,7 @@ Ok, I know it is a file `disk image`
 
 Thread tags mentioning a tool `Photorec`
 
-```Terminal
+```
 photorec image.dd 
 ```
 
@@ -49,16 +49,16 @@ OK, restore is done
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3273d285-a9ad-4c1c-afc4-2c0f130a1974)
 
-```Terminal
+```
 exiftool *.jpg
 ```
 
 There are 2 things to note:
 - Location:name of the challenge
 - Artist:steghide password: cheese on toast
->Where is `Spectrum`?
-
->Password `steghide` but which file is it from?
+  >Where is `Spectrum`?
+  
+  >Password `steghide` but which file is it from?
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9641aeb3-28c8-44e3-835e-f2da9b8b173d)
 
@@ -71,13 +71,13 @@ Ignore it for now :)), if the tags mention fcrackzip, let's try it
 
 Command below to decompress and download the tool
 
-```Terminal
+```
 sudo gzip -d /usr/share/wordlists/rockyou.txt.gz
 sudo apt install fcrackzip
 ```
 Yeh, that's all there is, now let's get started as a hacker :)))
 
-```Terminal
+```
 sudo fcrackzip -D -p /usr/share/wordlists/rockyou.txt f0000240_brown.zip 
 ```
 Password: `garfield`
