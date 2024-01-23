@@ -3,7 +3,7 @@ layout: post
 title: Secrets 
 date: 2024-01-23 16:00 +0700
 categories: [BTLO, Incident Response]
-tags: [Python]     # TAG names should always be lowercase
+tags: [Python, Blue Team, btlo]     # TAG names should always be lowercase
 img_path: '/assets/BTLO/Secrets'
 image: 
   path: logo.png
