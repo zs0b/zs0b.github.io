@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+Hello everyone, I'm 2$0b aka zs0b,and a newbie. I play CTF for passion @~@
+
+https://media.giphy.com/media/yBvndlpq8aCvS/giphy.gif 
+
 {: .prompt-tip }
