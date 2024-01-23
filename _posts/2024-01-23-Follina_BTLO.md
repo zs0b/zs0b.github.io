@@ -13,3 +13,5 @@ image:
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/b65d6da6-ef77-4f56-9441-a3a1aa38659a)
 
+## Question 2) According to VirusTotal, what is the full filetype of the provided sample? (Format: X X X X)
+
