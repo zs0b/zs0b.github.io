@@ -64,9 +64,7 @@ yeh, already have cassava
 
 As said there is no need to add a password
 
-```Terminal
-steghide extract -sf ssdog1.jpeg
-```
+`steghide extract -sf ssdog1.jpeg`
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/35bea95b-d02b-4280-b66f-840f97551d87)
 
@@ -77,9 +75,7 @@ steghide extract -sf ssdog1.jpeg
 oh, the question doesn't mention 'user' or 'btlo', I tried searching and it led to someone else's answer :)))
 > I didn't expect it
 
-```url
-https://blueteamlabs.online/home/user/0726ba878ea47de571777a
-```
+`https://blueteamlabs.online/home/user/0726ba878ea47de571777a`
 
 `bluetiger`
 
