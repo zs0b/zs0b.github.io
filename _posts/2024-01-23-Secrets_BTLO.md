@@ -55,7 +55,7 @@ Because I don't have admin rights hehe :>
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/b8523e03-4741-4bad-a07e-a6d13854f9fa)
 
-```
+```result
 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmbGFnIjoiQlRMe180X0V5ZXN9IiwiaWF0Ijo5MDAwMDAwMCwibmFtZSI6IkdyZWF0RXhwIiwiYWRtaW4iOmZhbHNlfQ.nMXNFvttCvtDcpswOQA8u_LpURwv6ZrCJ-ftIXegtX4 
 ```
 
