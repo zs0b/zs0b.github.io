@@ -31,7 +31,7 @@ Ok then I understand, just search and arrange in order :_)
 ## What next?
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/b57d2094-de91-4c17-b68b-8871644698bc)
-```
+```python
 from Crypto.Util.number import long_to_bytes
 
 def decrypt(enc, KEY):
