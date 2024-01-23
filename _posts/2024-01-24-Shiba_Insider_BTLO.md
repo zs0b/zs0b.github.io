@@ -56,7 +56,7 @@ Isn't that interesting lol @~@
 
 ### Based on the answer from the previous question, what tool needs to be used to retrieve the information hidden in the file? (1 points)
 
-yeh, already have cassava
+Yes, it's already available
 
 `Steghide`
 
