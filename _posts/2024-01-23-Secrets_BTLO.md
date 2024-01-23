@@ -33,7 +33,7 @@ To decode we will use brute force, there is hashcat and john here I will use has
 
 You must first go to `root` 
 
-```Plaintext
+``` Console
 hashcat token.txt -m 16500 -a 3 ?a?a?a?a
 ````
 
