@@ -122,6 +122,8 @@ I bet this is a GPS map, trust me!!
 
 `51.505278 0.055278`
 
+### Looking into these coordinates, what is the name of this location? (2 points)
+
 Go to `GG Map` and enter like me and boom
 
 
