@@ -19,17 +19,18 @@ order: 4
 
 ### **VNCERT/CC**
 - Position: Blue Team - Incident Response.
+- work experience: 6/2023
 - Responsibilities: Conduct research on security policies, safety procedures for organizations, perform digital forensics based on NIST tools on Windows.
 
 ### **Skills**
 
 **Coding Basic**
 
-C, C++, Python
+C, C++, Python, PowerShell, Bash
 
 **Tools**
 
-Burp Suite, nmap, SQLmap, volatility, Kali Linux,...
+Burp Suite, nmap, SQLmap, Wireshark, Snort, Splunk, volatility, Kali Linux,...
 
 **Achievements and Certificates**
 - Cisco Certified Network Associate Security (CCNA)
