@@ -64,7 +64,10 @@ Yes, it's already available
 
 As said there is no need to add a password
 
-`steghide extract -sf ssdog1.jpeg`
+```
+steghide extract -sf ssdog1.jpeg
+
+```
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/35bea95b-d02b-4280-b66f-840f97551d87)
 
