@@ -8,7 +8,7 @@ order: 4
 
 **Contact**
 
-:email: [2sob.3r0th3rcc@gmail.com](mailto:2sob.3r0th3rcc@gmail.com)
+<i class="fa fa-envelope"></i> [2sob.3r0th3rcc@gmail.com](mailto:2sob.3r0th3rcc@gmail.com)
 
 :telephone_receiver: [0946772034](tel:+84946772034)
 
