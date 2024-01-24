@@ -35,7 +35,7 @@ Please try opening it in text ~
 
 ###  Perform reverse DNS on this IP address, what is the resolved host? (whois.domaintools.com) (1 points)
 
-As a suggestion, go to [domaintools](whois.domaintools.com)
+As a suggestion, go to [whois.domaintools.com](https://whois.domaintools.com/)
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/388009b9-b775-4e5f-9cff-5c93024bd9bd)
 
