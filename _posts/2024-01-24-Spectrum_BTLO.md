@@ -21,7 +21,10 @@ Ok, I know it is a file `disk image`
 
 Thread tags mentioning a tool `Photorec`
 
-`photorec image.dd`
+```
+photorec image.dd
+
+```
 
 Select `Disk image.dd` -> `Proceed`
 
@@ -47,7 +50,10 @@ OK, restore is done
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3273d285-a9ad-4c1c-afc4-2c0f130a1974)
 
-`exiftool *.jpg`
+```
+exiftool *.jpg
+
+```
 
 There are 2 things to note:
 - Location:name of the challenge
@@ -73,7 +79,10 @@ sudo apt install fcrackzip
 ```
 Yeh, that's all there is, now let's get started as a hacker :)))
 
-`sudo fcrackzip -D -p /usr/share/wordlists/rockyou.txt f0000240_brown.zip`
+```
+sudo fcrackzip -D -p /usr/share/wordlists/rockyou.txt f0000240_brown.zip
+
+```
 
 Password: `garfield`
 
