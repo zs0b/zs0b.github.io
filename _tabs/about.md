@@ -8,11 +8,12 @@ order: 4
 
 **Contact**
 
-2sob.3r0th3rcc@gmail.com
+:email: [2sob.3r0th3rcc@gmail.com](mailto:2sob.3r0th3rcc@gmail.com)
 
-linkedin.com/in/nguyentatdat
+:telephone_receiver: [0946772034](tel:+84946772034)
 
-+84946772034
+:mag_right: [https://www.linkedin.com/in/nguyentatdat/](https://www.linkedin.com/in/nguyentatdat/)
+
 
 ## Experience
 
@@ -31,12 +32,9 @@ C, C++, Python
 Burp Suite, nmap, SQLmap, volatility, Kali Linux,...
 
 **Achievements and Certificates**
-
-Cisco Certified Network Associate Security (CCNA)
-
-ASEAN Student Contest on Information Security
-
-3st Online Player - CTF Gitex Hacking Workshop 2023
+- Cisco Certified Network Associate Security (CCNA)
+- ASEAN Student Contest on Information Security
+- 3st Online Player - CTF Gitex Hacking Workshop 2023
 
 ### **Education**
 
