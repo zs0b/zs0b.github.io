@@ -1,7 +1,7 @@
-![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/13d19643-85f4-433f-96ff-1da47480630d)---
+--- 
 layout: post
 title: Malware Analysis - Ransomware Script
-date: 2024-01-27 6:00 +0700
+date: 2024-01-25 6:00 +0700
 categories: [BTLO, Reverse Engineering]
 tags: [Ransomware, Text Editor, Malware Analysis, Blue Team, btlo, Reverse]     # TAG names should always be lowercase
 img_path: '/assets/BTLO/Malware_Analysis_Ransomware_Script'
