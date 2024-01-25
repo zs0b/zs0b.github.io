@@ -19,7 +19,7 @@ order: 4
 
 ### **VNCERT/CC**
 - Position: Blue Team - Incident Response.
-- work experience: 6/2023
+- Work experience: 6/2023
 - Responsibilities: Conduct research on security policies, safety procedures for organizations, perform digital forensics based on NIST tools on Windows.
 
 ### **Skills**
