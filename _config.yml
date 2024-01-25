@@ -16,7 +16,8 @@ timezone: Asia/Saigon
 
 title: 2$0b # the main title
 
-tagline: S.O.C # it will display as the sub-title
+tagline: SOC Analysis / Blue Team / Icident Response
+ # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
