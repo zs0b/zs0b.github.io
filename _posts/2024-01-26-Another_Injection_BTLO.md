@@ -17,7 +17,7 @@ Don't ignore the warning .-.
 
 ### What is the language the program is written? (1 points)
 
-Can use `IDA` or `PE studio`, this time I will use `IDA` so I will guide you to use [IDA pro]([https://www.winitor.com/download](https://github.com/Lynx305/IDA-Pro-7.7)https://github.com/Lynx305/IDA-Pro-7.7) to download and use
+Can use `IDA` or `PE studio`, this time I will use `IDA` so I will guide you to use [IDA pro](https://github.com/Lynx305/IDA-Pro-7.7) to download and use
 
 Please import the file and go to the `Hex View-1`
 
