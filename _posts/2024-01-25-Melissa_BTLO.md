@@ -27,7 +27,7 @@ First, please go here to download [oledump](https://blog.didierstevens.com/progr
 
 Then throw in this `Melissa`
 
-```Console
+```
 python ./oledump.py LIST.DOC 
 
 ```
