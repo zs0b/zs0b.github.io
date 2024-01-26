@@ -39,7 +39,7 @@ Burp Suite, nmap, SQLmap, Wireshark, Snort, Splunk, volatility, Kali Linux,...
 
 ### **Education**
 
-HUTECH UNIVERSITY
+University of Information Technology
 
 2022 - ... 
 
