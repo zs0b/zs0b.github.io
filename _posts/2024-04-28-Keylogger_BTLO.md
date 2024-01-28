@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: PowerShell Analysis - Keylogger
-date: 2024-01-28 18:00 +0700
+date: 2024-01-28 11:00 +0700
 categories: [BTLO, Reverse Engineering]
 tags: [Text Editor, Malware Analysis, Blue Team, btlo, Reverse, Keylogger]     # TAG names should always be lowercase
 img_path: '/assets/BTLO/PowerShell_Analysis_Keylogger'
