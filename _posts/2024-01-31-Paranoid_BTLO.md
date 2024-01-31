@@ -27,9 +27,9 @@ Remember to log in to root, comrades -..-
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9d0d1f5a-2465-403d-a5c8-47f8362bbb17)
 
 After reading the instructions, to get an overview, use the command line below
->  -if,--input <Input File name>: use this file as input
+>  `-if,--input <Input File name>`: use this file as input
 
->  --summary: sorted totals for main object in report
+>  `--summary`: sorted totals for main object in report
 
 ```
 aureport --summary -if audit.log 
@@ -43,7 +43,7 @@ okee, swim to solve this challenge
 ### What account was compromised? (2 points)
   
 To know which account is compromised, look at the `authentication report`
-> -au,--auth: Authentication report
+> `-au,--auth`: Authentication report
 
 ```
 aureport -au -if audit.log
@@ -51,7 +51,7 @@ aureport -au -if audit.log
 ```
 
 According to the report, left to right will be `date, time, acct, host, term, path, success, event`
-> Wow maybe that's it I'm a newbie (.-.) , sorry if it's wrong hehe
+> Wow maybe that's it, i'm a newbie (.-.) , sorry if it's wrong hehe
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/d7a0f374-1579-4a09-9b33-c56acbfcde99)
 
@@ -72,7 +72,7 @@ I listed it above as the host column
 ### What tool was used to perform system enumeration? (2 points)
 
 If the hacker already has permission, then see what he typed on the console
-> --tty: Report about tty keystrokes
+> `--tty`: Report about tty keystrokes
 
 ```
 aureport --tty -if audit.log
@@ -83,7 +83,7 @@ From the image , the hacker `wget` the command file `linpeas.sh` from his machin
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/c6508e62-5ee0-4dd7-ab6f-765acdfaea06)
 
-After researching on Google, LinPeas is a command file that searches for paths to elevate privileges on Linux/Unix*/MacOS hosts.
+After researching on Google, `LinPeas` is a command file that searches for paths to elevate privileges on Linux/Unix*/MacOS hosts.
 
 ```
 lsb_release -a
@@ -104,7 +104,7 @@ then he executed `./evil` with argument `0`, I don't really understand here @~@,
 ### What is the name of the binary and pid used to gain root? (3 points)
 
 After analyzing above, we know that there is a command file that was executed as `evil`, ok so let's list the ids of the executing processes.
-> -p,--pid: Pid report
+> `-p,--pid`: Pid report
 
 > I forgot, there will be a lot of them and not very related to what we are looking for, let's filter them with `grep 'evil'`
 
