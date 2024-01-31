@@ -22,7 +22,7 @@ sudo apt-get -y install auditd
 ```
 
 Remember to log in to root, comrades -..-
-> After downloading, there are many tools, please explain here hehe
+> After downloading, there are many tools, it's not convenient to explain here hehe
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9d0d1f5a-2465-403d-a5c8-47f8362bbb17)
 
