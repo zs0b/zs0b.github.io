@@ -149,7 +149,7 @@ right ~
 
 ### What file was exfiltrated once root was gained? (3 points)
 
-I've been confused about this all day :))
+I've been confused about this all morning :))
 > And after looking back, I realized I missed it :_) 
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9c182e97-22f6-4f75-949c-a8a8cc6b44cf)
