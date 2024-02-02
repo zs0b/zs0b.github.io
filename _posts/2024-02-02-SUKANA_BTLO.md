@@ -2,7 +2,7 @@
 layout: post
 title: SUKANA 
 date: 2024-02-02 16:00 +0700
-categories: [BTLO, Investigations, INCIDENT RESPONSE]
+categories: [BTLO, Investigations, Incident Response]
 tags: [Thunderbird, VirusTotal, Cisco Talos, Certutil, Volatility3, Volatility Workbench, Autopsy, Wireshark, Timeline Explorer, CyberChef, MFTECmd, Blue Team, btlo]     # TAG names should always be lowercase
 img_path: '/assets/BTLO/Sukana'
 image: 
