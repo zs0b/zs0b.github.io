@@ -9,8 +9,69 @@ image:
   path: logo.png
 --- 
 
+### Question 1) Submit the name of the units/teams (in short form) that are responsible for maintaining network and other IT equipment, incident detection and response, and security compliance and risk measurement (Format: Team1, Team2, Team3) (1 points)
 
+I don't know .-.
 
+### Question 2) After investigation, what are the 4 suggested 'Response Options' mentioned in Basic SOC Workflow? (Format: Option1, Option2, Option3, Option4) (1 points)
+
+`Block Activity, Deactivate Account, Continue Watching, Refer to Outside Party`
+
+### Question 3) What is the name of a military strategy used in SOCs to achieve a high level of situational awareness? (Format: Strategy Name) (1 points)
+
+`OODA loop`
+
+### Question 4) What is the name of the suggested organisational model if the constituency size is between 1000 to 10,000 employees (Format: Organisational Model Name) (1 points)
+
+`Distributed SOC`
+
+### Question 5) In a Large Centralised SOC, who is responsible for generating SOC metrics, maintaining situational awareness, and conducting internal/external trainings? (Format: Role Name) (1 points)
+
+`SOC operations lead`
+
+### Question 6) In Coordinating & National SOCs model what are the 2 functions mentioned as Optional Capability under Expanded SOC Operations Category? (Format: Function1, Function2) (1 points)
+
+`Deception, Insider Threat`
+
+### Question 7) What are the two virtual console technologies (in short form) mentioned to support Virtual SOC/ Remote Work scenarios during pandemics? (Format: Technology1, Technology2) (1 points)
+
+`ILO, IDRAC`
+
+### Question 8) What is the name of the model used to distribute work load of SOC 24/7 across different timezones to eliminate working at night hours? (Format: Model Name) (1 points)
+
+`Follow the Sun`
+
+###  Question 9) Submit the priorities(Low, Medium, High) assigned to Phishing, Insider Threat and Pre-incident Port Scanning activities respectively as per the Incident Prioritization mentioned in the document (Format: Priority1, Priority2, Priority3) (1 points)
+
+`Medium, High, Low`
+
+### Question 10) Mention the name of the Open source Operating system mentioned, that can help in mobile incident investigations (Format: OS Name) (1 points)
+
+`Santoku`
+
+### Question 11) Before choosing a CTI tool, the document suggests tool support for 2 open threat intelligence standards (short forms), what are they? (Format: Standard1, Standard2) (2 points)
+
+`STIX, TAXII`
+
+### Question 12) Name the Data Source which consumes the highest volume (typically TB's/day)? (Format: Data Source Name) (2 points)
+
+`PCAP`
+
+### Question 13) In order to support forensics, what is the recommended data retention period (in months) to store logged EDR data? (Format: # of Months) (2 points)
+
+`6`
+
+### Question 14) According to the threat intelligence concept the 'Pyramid of Pain', what indicators are Trivial, Easy, Challenging, Tough for adversaries to change? (Format: Indicator1, Indicator2, Indicator3, Indicator4) (2 points)
+
+`Hash Values, IP addresses, tools, ttps`
+
+### Question 15) Name of the Red Teaming approach to mimic the TTPs of an adversary? (Format: Approach Name) (2 points)
+
+`Adcersary Emulation`
+
+goodbye, thank you for reading until now //~//
+
+![Alt text](https://media.giphy.com/media/FB61453HY0Fy9JOIfB/giphy.gif) 
 
 
 
