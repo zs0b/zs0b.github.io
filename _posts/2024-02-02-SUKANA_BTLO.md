@@ -1,10 +1,10 @@
 ---
 layout: post
 title: SUKANA 
-date: 2024-02-04 16:00 +0700
+date: 2024-02-02 16:00 +0700
 categories: [BTLO, Investigations, INCIDENT RESPONSE]
 tags: [Thunderbird, VirusTotal, Cisco Talos, Certutil, Volatility3, Volatility Workbench, Autopsy, Wireshark, Timeline Explorer, CyberChef, MFTECmd, Blue Team, btlo]     # TAG names should always be lowercase
-img_path: '/assets/BTLO/'
+img_path: '/assets/BTLO/Sukana'
 image: 
   path: logo.png
 --- 
@@ -84,6 +84,8 @@ certutil -hashfile scanner.exe sha256
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/02a427a5-9694-477d-abd6-e1bffe0ec701)
 
 ### Q6) What scripting language is this C2 Framework primarily written in? (Format: Language)(1 points)
+
+
 
 ### Q7) What was the sending email address in question? (Format: mailbox@domain.tld)(1 points)
 
