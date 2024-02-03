@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Barcode World
-date: 2024-02-03 8:00 +0700
+date: 2024-02-03 7:00 +0700
 categories: [BTLO, CTF-Like]
 tags: [Python, Scripting, Blue Team, btlo, CTF, Crypto]     # TAG names should always be lowercase
 img_path: '/assets/BTLO'
