@@ -192,7 +192,7 @@ Now fill in the malicious IP
 
 Done ~
 
-![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/99cc09e3-9f29-4127-aec1-422614517177)
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/c5253ea8-83e3-42a7-b0b6-fbdf65aa85ca)
 
 `THM{THREAT-BLOCKED}`
 
