@@ -43,7 +43,7 @@ University of Information Technology
 
 2022 - ... 
 
-
+<script src="https://tryhackme.com/badge/1551862"></script>
 
 
 
