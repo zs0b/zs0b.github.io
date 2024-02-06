@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Cyber Security part 2
-date: 2024-02-06 8:00 +0700
+date: 2024-02-06 7:00 +0700
 categories: [TryHackMe, Pre Security]
 tags: [Pre Security, Blue Team]     # TAG names should always be lowercase
 img_path: '/assets/THM'
