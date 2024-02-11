@@ -2,7 +2,7 @@
 layout: post
 title: Network Fundamentals part 2
 date: 2024-02-09 14:00 +0700
-categories: [TryHackMe, Network Fundamentals]
+categories: [TryHackMe, Pre Security]
 tags: [Network Fundamentals, Blue Team]     # TAG names should always be lowercase
 img_path: '/assets/THM'
 image: 
