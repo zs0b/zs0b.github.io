@@ -36,6 +36,8 @@ Burp Suite, Nmap, SQLmap, Wireshark, Snort, Splunk, Volatility, IDA, Auditd, Kal
 - Cisco Certified Network Associate Security (CCNA)
 - ASEAN Student Contest on Information Security
 - 3st Online Player - CTF Gitex Hacking Workshop 2023
+- Pre Security - TryHackMe
+- Introduction to Cyber Security - TryHackMe
 
 ### **Education**
 
