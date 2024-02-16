@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How The Web Works Part 1
-date: 2024-02-15 21:00 +0700
+date: 2024-02-15 8:00 +0700
 categories: [TryHackMe, Pre Security]
 tags: [Network Fundamentals, Blue Team]     # TAG names should always be lowercase
 img_path: '/assets/THM'
