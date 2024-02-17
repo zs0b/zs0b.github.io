@@ -73,7 +73,11 @@ Add `.jpg`
 
 ### Add a dog image to the page by adding another img tag (<img>) on line 11. The dog image location is `img/dog-1.png`. What is the text in the dog image?
 
-Add ` <img src='img/dog-1.png'>` on line 11
+Add 
+```
+<img src='img/dog-1.png'>
+
+``` 
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/f8053810-f0f1-4bc8-9b1b-496694cc8033)
 
