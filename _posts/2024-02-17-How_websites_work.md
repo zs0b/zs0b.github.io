@@ -71,7 +71,7 @@ Add `.jpg`
 
 `HTMLHERO`
 
-### Add a dog image to the page by adding another img tag (<img>) on line 11. The dog image location is `img/dog-1.png`. What is the text in the dog image?
+### Add a dog image to the page by adding another img tag (<img>) on line 11. The dog image location is `img/dog-1.png` . What is the text in the dog image ?
 
 Add 
 ```
@@ -84,6 +84,14 @@ Add
 `DOGHTML`
 
 ## JavaScript
+
+JavaScript (JS) is one of the most popular coding languages in the world and allows pages to become interactive. HTML is used to create the website structure and content, while JavaScript is used to control the functionality of web pages - without JavaScript, a page would not have interactive elements and would always be static. JS can dynamically update the page in real-time, giving functionality to change the style of a button when a particular event on the page occurs (such as when a user clicks a button) or to display moving animations.
+
+JavaScript is added within the page source code and can be either loaded within `<script>` tags or can be included remotely with the src attribute: `<script src="/location/of/javascript_file.js"></script>`
+
+The following JavaScript code finds a HTML element on the page with the id of "demo" and changes the element's contents to "Hack the Planet" : `document.getElementById("demo").innerHTML = "Hack the Planet";`
+
+HTML elements can also have events, such as "onclick" or "onhover" that execute JavaScript when the event occurs. The following code changes the text of the element with the demo ID to Button Clicked: `<button onclick='document.getElementById("demo").innerHTML = "Button Clicked";'>Click Me!</button>` - onclick events can also be defined inside the JavaScript script tags, and not on elements directly. 
 
 ### Click the "View Site" button on this task. On the right-hand side, add JavaScript that changes the demo element's content to "Hack the Planet"
 
