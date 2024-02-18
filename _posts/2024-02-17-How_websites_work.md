@@ -71,7 +71,7 @@ Add `.jpg`
 
 `HTMLHERO`
 
-### Add a dog image to the page by adding another img tag (<img>) on line 11. The dog image location is `img/dog-1.png` . What is the text in the dog image ?
+### Add a dog image to the page by adding another img tag (`<img>`) on line 11. The dog image location is `img/dog-1.png` . What is the text in the dog image ?
 
 Add 
 ```
