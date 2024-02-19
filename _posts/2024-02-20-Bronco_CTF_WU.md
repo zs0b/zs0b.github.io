@@ -40,6 +40,34 @@ Move to `Green 2`
 
 `bronco{shr3konogr@phy}` 
 
+# Stego-Snore-Us
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/70d094b4-f660-444a-9279-aadd14c99e3d)
+
+Use [StegOnline](https://georgeom.net/StegOnline/image) to navigate to `Blue 1`
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/94056bff-02d6-4277-a27c-7d53ff0c329b)
+
+Push looks like cipher using [quipqiup](https://quipqiup.com/) to decode it
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/6b4f5faa-1bb8-473e-87cb-1fec058ac206)
+
+`bronco{no_more_all_nighters}`
+
+# ACM Borg Members
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/e5df16c8-ac7e-4584-addc-105407afcab3)
+
+The question refers to `Santa Clara's ACM`, looked it up on GG and found this site
+> `https://www.scuacm.com/`
+
+If it mentions `cyborgs` try looking for it
+> `https://www.scuacm.com/robots.txt`
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a04016b9-41e7-407f-8d1f-48764631a4ff)
+
+`bronco{be3p_b0op_@CM_are_cyb0rgs}`
+
 # Blue Boy Storage
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/13cc56de-00c4-4a2f-8360-bfc8ae44a765)
