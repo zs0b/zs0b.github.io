@@ -154,11 +154,13 @@ I found it quite easy to try downloading it and checking it out
 Use `zsteg` and i found it .-.
 
 ```
+zsteg --all BlueHerring-CPmowcv1.jpeg
 
 ```
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/d5c21e92-45e4-4ccc-bafc-68df517f1293)
 
+`broncoctf{D1s_H3rr1ng_Sh0uld4_B33n_Blue}`
 
 # Wiki Wiki Wiki
 
