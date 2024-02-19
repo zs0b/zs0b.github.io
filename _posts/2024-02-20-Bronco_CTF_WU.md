@@ -162,11 +162,45 @@ zsteg --all BlueHerring-CPmowcv1.jpeg
 
 `broncoctf{D1s_H3rr1ng_Sh0uld4_B33n_Blue}`
 
+# Medieval Beats
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/c27d4fcb-7e2b-4fc1-afc0-877dd3ac2c71)
+
+After checking, the flags are randomly hidden inside the video, download it, and use ffmpeg to process the images.
+
+```
+ffmpeg -i y2mate.com\ -\ Flag\ Vido_1080p.mp4 -vf "fps=1" output_%04d.png
+
+```
+
+The black ones have 6230 bytes of data, delete it
+
+```
+find . -type f -size 6230c -exec rm {} +
+
+```
+
+That's right, now there is a flag
+
+`bronco{1n_17_f0r_7h3_10n6_h4ul}`
+
+# Wario Party
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ea6ce117-2da6-436e-857d-2e0d62ab3aa2)
+
+
+
+
+
+
+
+
 # Wiki Wiki Wiki
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/18337deb-72f1-43fe-b184-277effb735bb)
 
 Searched for ips `128.125.52.138` edited articles on wikipedia and I found this article
+> There are 3600 photos =))
 
 ``` 
 https://en.wikipedia.org/w/index.php?oldid=676540540
