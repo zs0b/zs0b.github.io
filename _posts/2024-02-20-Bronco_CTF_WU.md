@@ -83,6 +83,83 @@ Here, I always look for the format of the first ctf, and boom
 
 `broncoctf{ab4_d3_4ba_d1e_1m_blu3}` 
 
+# All I Do Is
+
+Tried accessing the website `https://diamonds.broncoctf.xyz` but it didn't work @~@
+
+I tried watching the YouTube video
+> right, pay attention to the title `All I Do Is Dig`
+
+>Maybe the question asks to use `Dig`, ok let's try it
+
+References: 
+
+```
+https://www.cloudflare.com/learning/dns/dns-records/
+
+```
+
+```
+zs0b@b3r0th3rcc  ~  dig diamonds.broncoctf.xyz  
+
+; <<>> DiG 9.19.19-1-Debian <<>> diamonds.broncoctf.xyz
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64662
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;diamonds.broncoctf.xyz.		IN	A
+
+;; AUTHORITY SECTION:
+broncoctf.xyz.		145	IN	SOA	ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+;; Query time: 12 msec
+;; SERVER: 123.26.26.26#53(123.26.26.26) (UDP)
+;; WHEN: Mon Feb 19 14:58:51 +07 2024
+;; MSG SIZE  rcvd: 144
+
+ zs0b@b3r0th3rcc  ~  dig TXT diamonds.broncoctf.xyz 
+
+; <<>> DiG 9.19.19-1-Debian <<>> TXT diamonds.broncoctf.xyz
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24510
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;diamonds.broncoctf.xyz.		IN	TXT
+
+;; ANSWER SECTION:
+diamonds.broncoctf.xyz.	300	IN	TXT	"bronco{Finding_diamonds_aint_so_hard_just_dig_baby_dig}"
+
+;; Query time: 56 msec
+;; SERVER: 123.26.26.26#53(123.26.26.26) (UDP)
+;; WHEN: Mon Feb 19 14:59:00 +07 2024
+;; MSG SIZE  rcvd: 119
+```
+
+`bronco{Finding_diamonds_aint_so_hard_just_dig_baby_dig}`
+
+# Blue Herring
+
+I found it quite easy to try downloading it and checking it out
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/f5ed55d0-cce9-4147-bf04-da0873970e92)
+
+Use `zsteg` and i found it .-.
+
+```
+
+```
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/d5c21e92-45e4-4ccc-bafc-68df517f1293)
+
+
 # Wiki Wiki Wiki
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/18337deb-72f1-43fe-b184-277effb735bb)
