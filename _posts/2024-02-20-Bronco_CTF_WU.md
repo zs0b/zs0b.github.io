@@ -188,11 +188,36 @@ That's right, now there is a flag
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ea6ce117-2da6-436e-857d-2e0d62ab3aa2)
 
+Using [Aperi' Solve](https://www.aperisolve.com/) to check, I found that on the second bitplane something was encrypted
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a2131097-2613-4697-a50c-8dc91552c944)
 
+Use StegOnline to extract it
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/76c647cd-dd0c-4ac3-b167-06a747dc0ca1)
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/05b3b077-d7f1-4357-bea2-d9aebea7f181)
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/e250c0d5-471a-483c-bbee-2e77735c5a50)
+
+I guess maybe it's binary .-. manually go into [CyberChef](https://gchq.github.io/CyberChef/) and see what it comes up with
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/35e044fa-45b4-4b14-abb3-0f7c297d2dc7)
+
+yayyyyy ~ out there
+
+```
+01100010 01110010 01101111 01101110 01100011 01101111 01110011 01100101 01100011 01111011 01100010 00110000 01110111 01110011 00110011 01110010 01011111 01100111 00110000 01110100 01011111 01110100 01101000 00110100 01110100 01011111 01100100 01110101 01101101 01110000 01111001 01111101
+
+```
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/f610cdd3-8fa2-4ef0-9365-2f94bcac57c2)
+
+`broncosec{b0ws3r_g0t_th4t_dumpy}`
+
+# Boom
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/b4853c9f-a909-4f6e-9c92-3077372a3b67)
 
 
 # Wiki Wiki Wiki
