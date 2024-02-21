@@ -215,9 +215,64 @@ yayyyyy ~ out there
 
 `broncosec{b0ws3r_g0t_th4t_dumpy}`
 
-# Boom
+# Preschool Lessons
 
-![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/b4853c9f-a909-4f6e-9c92-3077372a3b67)
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/1872f635-ec9a-4d64-b7fe-319163099949)
+
+```
+abbaaabacabbbaabacabbabbbbcabbabbbacabbaaabbcabbabbbbcabbbbabbcabbabaabcababbbbbcabbabbabcaabbaaabcabbbaabbcabbbaabbcababbbbbcabbbaaaacabbbaabacaabbaabbcabbbaabbcabbaaabbcabbabaaacabbabbbbcaabbaaaacabbabbaacabbbbbab
+
+```
+Use [CyberChef](https://gchq.github.io/CyberChef/) replace `a=0` replace `b=1` and replace `c= space`, then convert it to ASCII
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/01938437-da5f-43eb-afcd-a9f1c1665d2c)
+
+`bronco{i_m1ss_pr3scho0l}`
+
+# Zodiac Killer
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/df48734b-dcc5-4f15-b1e5-2f467df74a19)
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/81e9a9a1-5008-4e57-89db-593f0281bc83)
+
+it is a simple Zodiac Killer Cipher, use [dcode](https://www.dcode.fr/zodiac-killer-cipher) to decode it
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/d5d4ed00-6f47-4c91-8083-74f6e720533e)
+
+`bronco{LOOKOVERYOURSHOULDER}`
+
+# Electrical Engineering
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/b031b3cb-c3d1-43a7-be88-863c28b65d39)
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/7eab5e71-b521-45c5-bc92-9846c5dc15ba)
+
+I use [GeocachingToolbox](https://www.geocachingtoolbox.com/index.php?lang=en&page=resistorCode) to find its resistance
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/6c03c561-28ca-456f-9925-ab530cdf4dd6)
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9f34ae59-0669-4bf5-97ed-95a14e1db6ae)
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3ad2afc0-4ca7-49b8-adec-4a4afb2ce5ee) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a8ced491-0b5d-4f63-a863-31ea314fd4bb) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ab3a44fb-57d7-461a-8691-dd509ff0b27d) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/44cf7d8a-8091-4215-ba68-a73bc41a91d1) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9fbf15db-f7a0-4a26-be20-c4c5076a33b6) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a5911e56-f14f-4c7c-a196-636dc56d0c0b) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/55c3a571-a45d-4688-8fd2-cab3fd2460bd) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/e2d4cb02-a20e-4d5b-8b04-4201730ea17b) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/958e646b-0cf9-407c-ab36-a8c46306eb46) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/8df05506-cda0-4171-b289-55640f326254) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/f9571991-0c40-4b40-bb6c-8b9e1ffb3953) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/edce1250-7ca2-409c-8c97-228570df7718) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a94b74ed-952e-4d2b-b520-d524d33865c3) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3c4b961e-6a78-4ac7-8986-b9313c14574a) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/2056cab5-685c-488c-ae45-26ac212b2836) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/96c3c95f-568a-4e28-b396-7e897dab4fda) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/4e0fd2e8-5d7a-4a71-9350-32d163827d34)
+
+Use [CyberChef](https://gchq.github.io/CyberChef) to decode it
+
+```
+98 114 111 110 99 111 123 114 69 115 105 53 116 95 101 	118 49 76 125
+
+```
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/8e74ff34-eaa6-4297-b457-c0b3eae31b85)
+
+`bronco{rEsi5t_ev1L}`
+
+# Countries Unite
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/812233be-1ada-4f58-8f30-8145ed6d7288)
+
+![countries](https://github.com/zs0b/zs0b.github.io/assets/118095276/a921e66b-824a-473b-96f8-e44586892851)
+
+`bronco{diveristyequityinclusion}` 
 
 
 # Wiki Wiki Wiki
@@ -236,9 +291,11 @@ https://en.wikipedia.org/w/index.php?oldid=676540540
 
 `bronco{cNi76bV2IVERlh97hP}`
 
+I know I'm here and wish you all a happy day
 
+goodbye, thank you for reading until now //~//
 
-
+![Alt text](https://media.giphy.com/media/AjNDkl9tch8vrck1Yx/giphy.gif)
 
 
 
