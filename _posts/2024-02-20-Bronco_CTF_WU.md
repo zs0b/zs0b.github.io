@@ -13,7 +13,7 @@ Hi comrades :>>>
 
 I can't explain much, so let's get started
 
-# Keyboard Elitist
+## Keyboard Elitist
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a118e81d-75ad-411a-8245-a9fedb3bc59b)
 
@@ -28,7 +28,7 @@ I came here ([Dcode](https://www.dcode.fr/monoalphabetic-substitution)) to find 
 
 `BRONCO{QWERTY_VS_C0LEM@K}`
 
-# Shrekanana Banana
+## Shrekanana Banana
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/07aa69af-e352-4c93-a7fe-7138affbb4f9)
 
@@ -40,7 +40,7 @@ Move to `Green 2`
 
 `bronco{shr3konogr@phy}` 
 
-# Stego-Snore-Us
+## Stego-Snore-Us
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/70d094b4-f660-444a-9279-aadd14c99e3d)
 
@@ -54,7 +54,7 @@ Push looks like cipher using [quipqiup](https://quipqiup.com/) to decode it
 
 `bronco{no_more_all_nighters}`
 
-# ACM Borg Members
+## ACM Borg Members
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/e5df16c8-ac7e-4584-addc-105407afcab3)
 
@@ -68,7 +68,7 @@ If it mentions `cyborgs` try looking for it
 
 `bronco{be3p_b0op_@CM_are_cyb0rgs}`
 
-# Blue Boy Storage
+## Blue Boy Storage
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/13cc56de-00c4-4a2f-8360-bfc8ae44a765)
 
@@ -83,7 +83,7 @@ Here, I always look for the format of the first ctf, and boom
 
 `broncoctf{ab4_d3_4ba_d1e_1m_blu3}` 
 
-# All I Do Is
+## All I Do Is
 
 Tried accessing the website `https://diamonds.broncoctf.xyz` but it didn't work @~@
 
@@ -145,7 +145,7 @@ diamonds.broncoctf.xyz.	300	IN	TXT	"bronco{Finding_diamonds_aint_so_hard_just_di
 
 `bronco{Finding_diamonds_aint_so_hard_just_dig_baby_dig}`
 
-# Blue Herring
+## Blue Herring
 
 I found it quite easy to try downloading it and checking it out
 
@@ -162,7 +162,7 @@ zsteg --all BlueHerring-CPmowcv1.jpeg
 
 `broncoctf{D1s_H3rr1ng_Sh0uld4_B33n_Blue}`
 
-# Medieval Beats
+## Medieval Beats
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/c27d4fcb-7e2b-4fc1-afc0-877dd3ac2c71)
 
@@ -184,7 +184,7 @@ That's right, now there is a flag
 
 `bronco{1n_17_f0r_7h3_10n6_h4ul}`
 
-# Wario Party
+## Wario Party
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ea6ce117-2da6-436e-857d-2e0d62ab3aa2)
 
@@ -215,7 +215,7 @@ yayyyyy ~ out there
 
 `broncosec{b0ws3r_g0t_th4t_dumpy}`
 
-# Preschool Lessons
+## Preschool Lessons
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/1872f635-ec9a-4d64-b7fe-319163099949)
 
@@ -229,7 +229,7 @@ Use [CyberChef](https://gchq.github.io/CyberChef/) replace `a=0` replace `b=1` a
 
 `bronco{i_m1ss_pr3scho0l}`
 
-# Zodiac Killer
+## Zodiac Killer
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/df48734b-dcc5-4f15-b1e5-2f467df74a19)
 
@@ -253,13 +253,19 @@ I use [GeocachingToolbox](https://www.geocachingtoolbox.com/index.php?lang=en&pa
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9f34ae59-0669-4bf5-97ed-95a14e1db6ae)
 
-![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3ad2afc0-4ca7-49b8-adec-4a4afb2ce5ee) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a8ced491-0b5d-4f63-a863-31ea314fd4bb) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ab3a44fb-57d7-461a-8691-dd509ff0b27d) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/44cf7d8a-8091-4215-ba68-a73bc41a91d1) 
 
-![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9fbf15db-f7a0-4a26-be20-c4c5076a33b6) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a5911e56-f14f-4c7c-a196-636dc56d0c0b) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/55c3a571-a45d-4688-8fd2-cab3fd2460bd) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/e2d4cb02-a20e-4d5b-8b04-4201730ea17b)
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3ad2afc0-4ca7-49b8-adec-4a4afb2ce5ee) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a8ced491-0b5d-4f63-a863-31ea314fd4bb) 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/ab3a44fb-57d7-461a-8691-dd509ff0b27d) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/44cf7d8a-8091-4215-ba68-a73bc41a91d1) 
 
-![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/958e646b-0cf9-407c-ab36-a8c46306eb46) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/8df05506-cda0-4171-b289-55640f326254) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/f9571991-0c40-4b40-bb6c-8b9e1ffb3953) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/edce1250-7ca2-409c-8c97-228570df7718) 
 
-![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a94b74ed-952e-4d2b-b520-d524d33865c3) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3c4b961e-6a78-4ac7-8986-b9313c14574a) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/2056cab5-685c-488c-ae45-26ac212b2836) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/96c3c95f-568a-4e28-b396-7e897dab4fda) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/4e0fd2e8-5d7a-4a71-9350-32d163827d34)
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9fbf15db-f7a0-4a26-be20-c4c5076a33b6) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a5911e56-f14f-4c7c-a196-636dc56d0c0b) 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/55c3a571-a45d-4688-8fd2-cab3fd2460bd) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/e2d4cb02-a20e-4d5b-8b04-4201730ea17b)
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/958e646b-0cf9-407c-ab36-a8c46306eb46) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/8df05506-cda0-4171-b289-55640f326254) 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/f9571991-0c40-4b40-bb6c-8b9e1ffb3953) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/edce1250-7ca2-409c-8c97-228570df7718) 
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a94b74ed-952e-4d2b-b520-d524d33865c3) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/3c4b961e-6a78-4ac7-8986-b9313c14574a) 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/2056cab5-685c-488c-ae45-26ac212b2836) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/96c3c95f-568a-4e28-b396-7e897dab4fda) ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/4e0fd2e8-5d7a-4a71-9350-32d163827d34)
 
 Use [CyberChef](https://gchq.github.io/CyberChef) to decode it
 
