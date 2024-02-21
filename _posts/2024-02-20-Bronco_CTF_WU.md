@@ -4,7 +4,7 @@ title: BRONCO CTF
 date: 2024-02-20 8:00 +0700
 categories: [Writeup, BRONCO 2024]
 tags: [forensics, cryto, web, OSINT, BRONCO CTF]     # TAG names should always be lowercase
-img_path: '/assets/BroncoCTF'
+img_path: '/assets/Bronco'
 image: 
   path: logo.png
 --- 
