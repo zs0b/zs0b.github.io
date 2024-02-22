@@ -30,7 +30,7 @@ C, C++, Python, PowerShell, Bash
 
 **Tools**
 
-Burp Suite, Nmap, SQLmap, Wireshark, Snort, Splunk, Volatility, IDA, Auditd, Kali Linux,...
+Burp Suite, Nmap, SQLmap, Wireshark, Snort, Splunk, Volatility, IDA, Auditd, ffmpeg, zsteg, dig, Kali Linux,...
 
 **Achievements and Certificates**
 - Cisco Certified Network Associate Security (CCNA)
