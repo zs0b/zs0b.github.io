@@ -379,6 +379,8 @@ There are, of course, logs that store information about how the OS is running it
 
 `catsanddogs.jpg`
 
+goodbye, thank you for reading until now //~//
+
 
 
 
