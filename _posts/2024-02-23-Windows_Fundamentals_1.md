@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Fundamentals Part 1
-date: 2024-02-22 8:00 +0700
+date: 2024-02-23 8:00 +0700
 categories: [TryHackMe, Pre Security]
 tags: [Windows Fundamentals, Blue Team]     # TAG names should always be lowercase
 img_path: '/assets/THM'
