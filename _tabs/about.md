@@ -38,6 +38,7 @@ Burp Suite, Nmap, SQLmap, Wireshark, Snort, Splunk, Volatility, IDA, Auditd, ffm
 - 3st Online Player - CTF Gitex Hacking Workshop 2023
 - Pre Security - TryHackMe
 - Introduction to Cyber Security - TryHackMe
+- Complete Beginner - TryHackMe
 
 ### **Education**
 
