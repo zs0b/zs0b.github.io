@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Offensive Security part 1
-date: 2024-02-29 2:00 +0700
+date: 2024-02-29 10:00 +0700
 categories: [TryHackMe, Introduction to Cyber Security]
 tags: [Introduction to Cyber Security, Blue Team]     # TAG names should always be lowercase
 img_path: '/assets/THM'
