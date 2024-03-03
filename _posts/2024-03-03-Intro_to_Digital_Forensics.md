@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Defensive Security part 1
-date: 2024-03-03 10:00 +0700
+date: 2024-03-03 7:00 +0700
 categories: [TryHackMe, Introduction to Cyber Security]
 tags: [Introduction to Cyber Security, Blue Team]     # TAG names should always be lowercase
 img_path: '/assets/THM'
