@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complete Beginner Introduction part 2
-date: 2024-03-06 7:00 +0700
+date: 2024-03-06 2:00 +0700
 categories: [TryHackMe, Complete Beginner]
 tags: [Complete Beginner, Blue Team]     # TAG names should always be lowercase
 img_path: '/assets/THM'
