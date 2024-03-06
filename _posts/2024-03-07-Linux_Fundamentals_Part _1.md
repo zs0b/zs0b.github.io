@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux Fundamentals Part 1
-date: 2024-03-07 7:00 +0700
+date: 2024-03-07 1:00 +0700
 categories: [TryHackMe, Complete Beginner]
 tags: [Linux Fundamentals, Blue Team, Complete Beginner]     # TAG names should always be lowercase
 img_path: '/assets/THM'
