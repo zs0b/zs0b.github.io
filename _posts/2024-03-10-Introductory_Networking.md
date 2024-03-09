@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Network Exploitation Basics Part 1
-date: 2024-03-10 8:00 +0700
+date: 2024-03-10 00:57 +0700
 categories: [TryHackMe, Complete Beginner]
 tags: [Blue Team, Complete Beginner]     # TAG names should always be lowercase
 img_path: '/assets/THM'
