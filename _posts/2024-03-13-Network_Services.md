@@ -261,3 +261,5 @@ The user connects to the server by using the Telnet protocol, which means enteri
 
 goodbye, thank you for reading until now //~//
 
+Then wait until tomorrow >.0
+
