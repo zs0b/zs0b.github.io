@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Burp Suite The Basics Part 2 
-date: 2024-03-22 9:00 +0700
+date: 2024-03-22 20:00 +0700
 categories: [TryHackMe, Complete Beginner]
 tags: [Blue Team, Complete Beginner]     # TAG names should always be lowercase
 img_path: '/assets/THM'
