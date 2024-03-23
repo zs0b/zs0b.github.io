@@ -111,34 +111,117 @@ Overall, the **Target** tab offers features beyond scoping, allowing us to map o
 
 Challenge
 
-Take a look around the site on `http://10.10.67.41/` — we will be using this a lot throughout the module. Visit every other page that is linked on the homepage, then check your sitemap — one endpoint should stand out as being very unusual!
+Take a look around the site on `http://10.10.127.86/` — we will be using this a lot throughout the module. Visit every other page that is linked on the homepage, then check your sitemap — one endpoint should stand out as being very unusual!
 
 Visit this in your browser (or use the "Response" section of the site map entry for that endpoint)
 
+### What is the flag you receive after visiting the unusual endpoint?
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/130cedca-7e1d-41fd-97f0-302ef3818b17)
 
+`THM{NmNlZTliNGE1MWU1ZTQzMzgzNmFiNWVk}`
 
+## The Burp Suite Browser
 
+If the previous tasks seemed overly complex, rest assured, this topic will be a lot simpler.
 
+In addition to modifying our regular web browser to work with the proxy, Burp Suite also includes a built-in Chromium browser that is pre-configured to use the proxy without any of the modifications we just had to do.
 
+To start the Burp Browser, click the `Open Browser` button in the proxy tab. A Chromium window will pop up, and any requests made in this browser will go through the proxy.
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9c93553c-9bcf-49a8-afd1-7fbc54cedeeb)
 
+**Note**: There are many settings related to the Burp Browser in the project options and user options settings. Make sure to explore and customise them as needed.
 
+However, if you are running Burp Suite on Linux as the root user (as is the case with the AttackBox), you may encounter an error preventing the Burp Browser from starting due to the inability to create a sandbox environment.
 
+There are two simple solutions to this:
 
+- **Smart option**: Create a new user and run Burp Suite under a low-privilege account to allow the Burp Browser to run without issues.
 
+- **Easy option**: Go to `Settings -> Tools -> Burp's browser` and check the `Allow Burp's browser to run without a sandbox` option. Enabling this option will allow the browser to start without a sandbox. However, please be aware that this option is disabled by default for security reasons. If you choose to enable it, exercise caution, as compromising the browser could grant an attacker access to your entire machine. In the training environment of the AttackBox, this is unlikely to be a significant issue, but use it responsibly.
 
+## Scoping and Targeting
 
+Finally, we come to one of the most important aspects of using the Burp Proxy: **Scoping**.
 
+Capturing and logging all of the traffic can quickly become overwhelming and inconvenient, especially when we only want to focus on specific web applications. This is where scoping comes in.
 
+By setting a scope for the project, we can define what gets proxied and logged in Burp Suite. We can restrict Burp Suite to target only the specific web application(s) we want to test. The easiest way to do this is by switching to the `Target` tab, right-clicking on our target from the list on the left, and selecting `Add To Scope`. Burp will then prompt us to choose whether we want to stop logging anything that is not in scope, and in most cases, we want to select `yes`.
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/bc9728ab-cb55-4ebe-ba49-5f88f139abf9)
 
+To check our scope, we can switch to the **Scope settings** sub-tab within the **Target** tab.
 
+The Scope settings window allows us to control our target scope by including or excluding domains/IPs. This section is powerful and worth spending time getting familiar with.
 
+However, even if we disabled logging for out-of-scope traffic, the proxy will still intercept everything. To prevent this, we need to go to the **Proxy settings** sub-tab and select `And` `URL` `Is in target scope` from the "Intercept Client Requests" section.
 
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/7a4024fa-6eec-4530-b209-6f0d17f2380a)
 
+Enabling this option ensures that the proxy completely ignores any traffic that is not within the defined scope, resulting in a cleaner traffic view in Burp Suite.
 
+## Proxying HTTPS
 
+**Note**: The AttackBox is already configured to solve the problem posed in this task. If you use the AttackBox and don't wish to read through the information here, you can skip to the next task.
+
+When intercepting HTTP traffic, we may encounter an issue when navigating to sites with TLS enabled. For example, when accessing a site like `https://google.com/`, we may receive an error indicating that the PortSwigger Certificate Authority (CA) is not authorised to secure the connection. This happens because the browser does not trust the certificate presented by Burp Suite.
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/041bb3d1-e556-44b7-810d-ca3fc1f2bd65)
+
+To overcome this issue, we can manually add the PortSwigger CA certificate to our browser's list of trusted certificate authorities. Here's how to do it:
+
+- **Download the CA Certificate**: With the Burp Proxy activated, navigate to http://burp/cert. This will download a file called `cacert.der`. Save this file somewhere on your machine.
+
+- **Access Firefox Certificate Settings**: Type `about:preferences` into your Firefox URL bar and press **Enter**. This will take you to the Firefox settings page. Search the page for "certificates" and click on the **View Certificates** button.
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/9b48e246-525f-4bfe-8a0b-66928a7c3a6f)
+
+- **Import the CA Certificate**: In the Certificate Manager window, click on the Import button. Select the `cacert.der` file that you downloaded in the previous step.
+
+- **Set Trust for the CA Certificate**: In the subsequent window that appears, check the box that says "Trust this CA to identify websites" and click OK.
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/7619472e-1c68-4708-ac57-26880a70e153)
+
+By completing these steps, we have added the PortSwigger CA certificate to our list of trusted certificate authorities. Now, we should be able to visit any TLS-enabled site without encountering the certificate error.
+
+You can watch the following video for a visual demonstration of the full certificate import process:
+
+By following these instructions, you can ensure that your browser trusts the PortSwigger CA certificate and securely communicates with TLS-enabled websites through the Burp Suite Proxy.
+
+## Example Attack
+
+Having looked at how to set up and configure our proxy, let's go through a simplified real-world example.
+
+We will start by taking a look at the support form at `http://10.10.127.86/ticket/`:
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/fda0879c-aee4-4c21-91c6-54947d9d0d74)
+
+In a real-world web app pentest, we would test this for a variety of things, one of which would be Cross-Site Scripting (or XSS). If you have not yet encountered XSS, it can be thought of as injecting a client-side script (usually in Javascript) into a webpage in such a way that it executes. There are various kinds of XSS – the type that we are using here is referred to as "Reflected" XSS, as it only affects the person making the web request.
+
+### Walkthrough
+
+Try typing: `<script>alert("Succ3ssful XSS")</script>`, into the "Contact Email" field. You should find that there is a client-side filter in place which prevents you from adding any special characters that aren't allowed in email addresses 
+
+Fortunately for us, client-side filters are absurdly easy to bypass. There are a variety of ways we could disable the script or just prevent it from loading in the first place.
+
+Let's focus on simply bypassing the filter for now.
+
+First, make sure that your Burp Proxy is active and that intercept is on.
+
+Now, enter some legitimate data into the support form. For example: "pentester@example.thm" as an email address, and "avasdsad" as a query.
+
+Submit the form — the request should be intercepted by the proxy.
+
+With the request captured in the proxy, we can now change the email field to be our very simple payload from above: `<script>alert("Succ3ssful XSS")</script>`. After pasting in the payload, we need to select it, then URL encode it with the `Ctrl + U` shortcut to make it safe to send. This process is shown in the GIF below:
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/29f2669b-5e55-43d4-aab5-ac416614cd0c)
+
+Finally, press the "Forward" button to send the request.
+
+You should find an alert box from the site indicating a successful XSS attack!
+
+![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/a51548e8-9c1e-4d05-8966-0c5dd074a579)
 
 
 
