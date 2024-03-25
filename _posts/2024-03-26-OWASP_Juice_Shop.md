@@ -97,7 +97,7 @@ We will now change the "**a**" next to the email to: **' or 1=1--** and forward 
 
 ### Question #2: Log into the Bender account!
 
-Similar to what we did in **Question #1**, we will now log into Bender's account! Capture the login request again, but this time we will put: **bender@juice-sh.op'--** as the email. 
+Similar to what we did in **Question #1**, we will now log into Bender's account! Capture the login request again, but this time we will put: **`bender@juice-sh.op'--`** as the email. 
 
 ![image](https://github.com/zs0b/zs0b.github.io/assets/118095276/015e5fcf-0253-43ad-adf2-7bf1080cd67c)
 
