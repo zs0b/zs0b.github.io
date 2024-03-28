@@ -248,3 +248,4 @@ If you wish to tackle some of the **harder** challenges that were not covered wi
 
 `7efd3174f9dd5baa03a7882027f2824d2f72d86e`
 
+Hey comrades, I probably have to take a break for 1 to 2 months, because I'm trying to complete the `SOC Level 1` which is quite difficult TT
